@@ -100,3 +100,15 @@ nav ul li a:hover,nav ul li a.active{
     
     
 }
+
+
+
+/*Header section code start */
+
+header{
+    background-image: url('images/image01.jpg');
+    height: 90vh;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+}
